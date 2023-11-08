@@ -1,8 +1,6 @@
 ### Hi there, I'm Léo 👋
 
-* 🛰️ Work: I’m currently working at MDA to detect deepfakes in satellite and drone imagery. Before that, I worked on the backend of the [Dark Vessel Detection](https://mda.space/en/dark-vessel/) project, satellite scheduling software, and reconstruction jobs for downlinked satellite data.
-
-* 🧰 Toolbox: Golang, Python, Linux, Docker, Machine Learning and the usual SE toolchain (git, bash, ...)
+* 🧰 Toolbox: Golang, Python, Flutter, Linux, Docker, devops, Machine Learning and the usual SE toolchain (git, bash, ...)
 
 * 🚀 CSA/NASA Deep Space Food Challenge: spearheaded a team of 6 engineers to design an automated composting machine that produces insect protein.
 * 🚲 Free Time: I train 15h+ per week for endurance races (running, triathlons, swimming)
