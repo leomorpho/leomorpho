@@ -6,4 +6,4 @@
 * 🚲 Free Time: I train 15h+ per week for endurance races (running, triathlons, swimming)
 
 * 🌍 World citizen: spent my first 8 years in Dutch Belgium 🇧🇪, then 6 years in France 🇫🇷, and then to Canada 🇨🇦
-* 🌐 Languages: I speak French and English (I have since lost my fluent Dutch 😢). Right now, I'm learning Spanish and Russian.
+* 🌐 Languages: I speak French and English (I have since lost my fluent Dutch 😢). Right now, I'm learning German.
